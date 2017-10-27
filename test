@@ -1,0 +1,8 @@
+10月27号再次实验
+
+
+
+密钥已经验证成功
+第一步在GitHub创建新的分支   命名test
+第二步把本地的test2项目与GitHub的test项目关联一起，切换到工作目录   git remote add origin(项目名) git@github。com：starksong/test.git
+第三步   本地的仓库就可以向远程仓库进行代码提交        git push origin(项目名)master
